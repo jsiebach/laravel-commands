@@ -1,5 +1,5 @@
 <?php
-namespace JSiebach\Cheddar;
+namespace JSiebach\Commands;
 use Illuminate\Support\ServiceProvider;
 use JSiebach\Commands\Commands\RefreshDatabase;
 
